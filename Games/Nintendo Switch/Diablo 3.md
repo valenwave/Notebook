@@ -4,6 +4,7 @@ There's nothing left to gain. I can get slightly stronger, but the play style do
 # Season
 Season 24 starts this Friday, July 23.
 There's not really anything left I need to do in-between seasons.
+It's great having friends from previous seasons. Even after just 24 hours, I see my friends get to max difficulty
 
 ## Reasons to play a season
 Things slightly changes every season.
