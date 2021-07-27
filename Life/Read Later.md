@@ -1,5 +1,0 @@
-# Note
-I need to get better getting back to topics that I want to research.
-
-# Reading List
-All clear!
