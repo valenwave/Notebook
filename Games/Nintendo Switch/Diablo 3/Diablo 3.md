@@ -11,3 +11,23 @@ Things slightly changes every season.
 Guarantee set for your class.
 Free Primal weapon when you get to a certain point in Greater Rifts.  
 I'll probably stop as soon as I get my Primal item
+
+# Primal
+# Strength
+Heart of Iron 0
+
+Raekor's Will 0
+Leoric's Crown 0
+
+Immortal King's Stide 0
+Lut Socks 66 *
+
+# Dexterity
+Frostburn 0
+
+Leoric's Crown 0 *
+
+Squirt's Necklace 62 *
+
+# Intelligence
+Rondal's Locket 0
