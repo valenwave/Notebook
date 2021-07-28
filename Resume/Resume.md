@@ -11,3 +11,6 @@
 * MediaWiki
 * GitLab Wiki
 * GitHub Wiki
+
+# IDE
+* Visual Studio 2019
