@@ -3,8 +3,10 @@
 * GitHub
 * BitBucket
 
-# Versioning Tools
+# Git GUI client
+* Atom
 * GitKraken
+* SourceTree
 
 # Documentation
 * Markdown
@@ -12,5 +14,24 @@
 * GitLab Wiki
 * GitHub Wiki
 
+# Concepts
+* JSON
+
+# Markup
+* Markdown
+* JSON
+
 # IDE
 * Visual Studio 2019
+
+# Email
+* Outlook
+* Gmail
+
+# Project Management
+* Trello
+* GitKraken Glo
+
+---
+# Programming
+Understanding of object oriented programming.
