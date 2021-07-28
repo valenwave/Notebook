@@ -7,6 +7,9 @@ CTRL+0 - Reset Zoom
 # OneNote Notebook
 Used to thought having the strict organization of Notebooks and Sections made things more organized. I now choose the freedom of several nested folders.
 
+# GitKraken
+Clone with URL works well. Looks like I can use it as a general option. Linking a system adds a minor convenience of being able to select from repositories on your account. 
+
 ---
 
 # Razer Synapse
