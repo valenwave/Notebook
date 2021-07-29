@@ -1,2 +1,0 @@
-# Monthly
-YouTube Premium
