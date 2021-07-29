@@ -1,2 +1,0 @@
-# Reddit
-Great community.
