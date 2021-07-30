@@ -32,6 +32,10 @@
 * Trello
 * GitKraken Glo
 
+# Password Management
+* LastPass
+* KeePass
+
 ---
 # Programming
 Understanding of object oriented programming.
