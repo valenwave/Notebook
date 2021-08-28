@@ -17,4 +17,10 @@ Can't seem to clone from work PC. I either did something wrong, but there's a fi
 Is Facebook still relevant? I'm starting to think not.
 But I guess it's also the stage of my life.
 I'm not meeting as much people I used to when I was in college or when I was single.
-And I don't intend to add my co-workers as Facebook friends. 
+And I don't intend to add my co-workers as Facebook friends.
+
+* https://ninite.com/
+* https://www.gog.com/galaxy
+* https://www.nexusmods.com/
+
+* https://www.propublica.org/article/dr-death-christopher-duntsch-a-surgeon-so-bad-it-was-criminal
