@@ -24,3 +24,6 @@ And I don't intend to add my co-workers as Facebook friends.
 * https://www.nexusmods.com/
 
 * https://www.propublica.org/article/dr-death-christopher-duntsch-a-surgeon-so-bad-it-was-criminal
+
+# Articles
+https://www.infoworld.com/article/3198673/when-to-use-webclient-vs-httpclient-vs-httpwebrequest.html
