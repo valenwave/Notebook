@@ -1,3 +1,11 @@
+https://github.com/nosir/cleave.js/issues/389
+https://github.com/dotnet/SqlClient/issues/354
+
+# Akamai OPEN
+https://github.com/akamai/AkamaiOPEN-edgegrid-C-Sharp
+https://github.com/akamai/AkamaiOPEN-edgegrid-C-Sharp/issues/10
+
+# Magnum
 https://github.com/phatboyg/Magnum/tree/master/src/Magnum
 https://github.com/phatboyg/Magnum/blob/master/src/Magnum/Extensions/ExtensionsToAttributes.cs
 https://github.com/phatboyg/Magnum/blob/master/src/Magnum/Extensions/ExtensionsToEnumerable.cs
