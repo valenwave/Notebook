@@ -17,3 +17,4 @@ https://stackoverflow.com/questions/45382993/unable-to-load-dll-sni-dll-entity-f
 https://www.sslshopper.com/ssl-checker.html#hostname=23.34.45.177
 
 https://www.codegrepper.com/code-examples/whatever/System.Net.WebException%3A+The+request+was+aborted%3A+Could+not+create+SSL%2FTLS+secure+channel.
+https://phantomjs.org/examples

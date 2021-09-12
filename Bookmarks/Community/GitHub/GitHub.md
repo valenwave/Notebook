@@ -1,5 +1,5 @@
-https://github.com/nosir/cleave.js/issues/389
 https://github.com/dotnet/SqlClient/issues/354
+https://github.com/nosir/cleave.js/issues/389
 
 # Akamai OPEN
 https://github.com/akamai/AkamaiOPEN-edgegrid-C-Sharp
@@ -12,5 +12,5 @@ https://github.com/phatboyg/Magnum/blob/master/src/Magnum/Extensions/ExtensionsT
 https://github.com/phatboyg/Magnum/blob/master/src/Magnum/Extensions/ExtensionsToStream.cs
 https://github.com/phatboyg/Magnum/blob/master/src/Magnum/Extensions/ExtensionsToString.cs
 
-# Gist
-https://gist.github.com/jbueza/9352607
+# React
+https://github.com/facebook/react
