@@ -9,3 +9,4 @@ https://community.akamai.com/customers/s/question/0D50f00005zRB7mCAG/ssltls-erro
 https://www.sslshopper.com/ssl-checker.html#hostname=23.34.45.177
 https://www.codegrepper.com/code-examples/whatever/System.Net.WebException%3A+The+request+was+aborted%3A+Could+not+create+SSL%2FTLS+secure+channel.
 https://phantomjs.org/examples
+https://cheapsslsecurity.com/p/everything-you-need-to-know-about-an-ssl-cipher-cipher-lists/
