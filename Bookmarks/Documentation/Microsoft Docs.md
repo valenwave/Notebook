@@ -9,6 +9,10 @@ https://docs.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadfile?vi
 https://docs.microsoft.com/en-us/dotnet/api/system.net.webexception?view=net-5.0
 https://docs.microsoft.com/en-us/dotnet/api/system.net.webexception.response?view=net-5.0
 
+### Trim
+https://docs.microsoft.com/en-us/dotnet/api/system.string.trim?view=net-5.0
+https://docs.microsoft.com/en-us/dotnet/api/system.string.trimstart?view=net-5.0#System_String_TrimStart_System_Char___
+
 ## Framework
 https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed
 https://docs.microsoft.com/en-us/dotnet/framework/network-programming/tls
