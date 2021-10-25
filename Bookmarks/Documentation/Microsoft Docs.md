@@ -1,7 +1,8 @@
 # .NET
 ## API
-https://docs.microsoft.com/en-us/dotnet/api/system.string.join?view=net-5.0
 https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=net-5.0
+https://docs.microsoft.com/en-us/dotnet/api/system.int32.parse?view=net-5.0
+https://docs.microsoft.com/en-us/dotnet/api/system.string.join?view=net-5.0
 
 ### System.Net
 https://docs.microsoft.com/en-us/dotnet/api/system.net.webclient.downloadstring?view=net-5.0

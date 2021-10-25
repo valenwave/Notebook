@@ -1,5 +1,6 @@
 https://github.com/dotnet/SqlClient/issues/354
 https://github.com/nosir/cleave.js/issues/389
+* [Ghostscript.NET](https://github.com/jhabjan/Ghostscript.NET)
 
 # Akamai OPEN
 https://github.com/akamai/AkamaiOPEN-edgegrid-C-Sharp
