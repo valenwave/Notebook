@@ -1,6 +1,10 @@
 https://beginnersbook.com/2013/04/java-date-format/
 https://www.mediawiki.org/wiki/Help:Formatting
 
+# Apple
+* [Update or reinstall Safari for your computer](https://support.apple.com/en-us/HT204416)
+* [About the security content of Safari 13.1.2](https://support.apple.com/en-us/HT211292)
+
 # Artifex
 https://artifex.com/licensing/
 https://artifex.com/licensing/agpl/
