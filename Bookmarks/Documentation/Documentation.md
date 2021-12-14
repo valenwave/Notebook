@@ -1,5 +1,10 @@
 https://beginnersbook.com/2013/04/java-date-format/
 https://www.mediawiki.org/wiki/Help:Formatting
+https://documentation.help/MSBuild.ExtensionPack/243a8320-e40b-b525-07d6-76fc75629364.htm
+https://www.csharpcodi.com/csharp-examples/MSBuild.ExtensionPack.Web.Iis7Website.ApplicationExists(string)/
+https://www.codit.eu/blog/build-and-deploy-with-the-msbuild-extension-pack/
+https://www.oreilly.com/library/view/internet-information-services/0735614202/apas57.html
+https://www.saotn.org/appcmd-introduction-examples/
 
 # Apple
 * [Update or reinstall Safari for your computer](https://support.apple.com/en-us/HT204416)

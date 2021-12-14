@@ -1,3 +1,4 @@
+
 # .NET
 ## API
 https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=net-5.0
@@ -18,8 +19,18 @@ https://docs.microsoft.com/en-us/dotnet/api/system.string.trimstart?view=net-5.0
 https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/how-to-determine-which-versions-are-installed
 https://docs.microsoft.com/en-us/dotnet/framework/network-programming/tls
 
+# IIS
+https://docs.microsoft.com/en-us/iis/get-started/getting-started-with-iis/getting-started-with-appcmdexe
+
+# Powershell
+https://docs.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtaskaction?view=windowsserver2022-ps
+https://docs.microsoft.com/en-us/powershell/scripting/samples/using-format-commands-to-change-output-view?view=powershell-7.2
+
 # Windows
 https://docs.microsoft.com/en-us/windows/win32/secauthn/protocols-in-tls-ssl--schannel-ssp-
 https://docs.microsoft.com/en-us/windows/win32/secauthn/cipher-suites-in-schannel
 https://docs.microsoft.com/en-us/windows/win32/secauthn/tls-cipher-suites-in-windows-server-2022
 https://docs.microsoft.com/en-us/windows/win32/secauthn/tls-cipher-suites-in-windows-8-1
+
+# Visual Studio
+https://docs.microsoft.com/en-us/visualstudio/msbuild/delete-task?view=vs-2022
