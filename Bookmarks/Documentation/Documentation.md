@@ -25,10 +25,6 @@ https://www.evopdf.com/pdf-to-image-converter.aspx
 https://www.ghostscript.com/
 https://www.ghostscript.com/releases/index.html
 
-# jQuery
-https://api.jquery.com/click/
-https://api.jquery.com/prop/
-
 # Shell Scripts
 https://www.shellscript.sh/variables1.html
 https://www.shellscript.sh/variables2.html

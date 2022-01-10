@@ -15,3 +15,7 @@ https://github.com/phatboyg/Magnum/blob/master/src/Magnum/Extensions/ExtensionsT
 
 # React
 https://github.com/facebook/react
+
+# TestCafe
+* [DevExpress/testcafe-examples](https://github.com/DevExpress/testcafe-examples) - Starred 30
+* [LambdaTest/testcafe-sample](https://github.com/LambdaTest/testcafe-sample) - Starred 10
