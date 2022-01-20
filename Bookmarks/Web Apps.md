@@ -1,3 +1,4 @@
 # General
-* [Code Beautify](https://codebeautify.org/xmlviewer)
+* [Beautify JSON](https://jsonformatter.org/)
+* [Beautify XML](https://codebeautify.org/xmlviewer)
 * [JSFiddle](https://jsfiddle.net/)
