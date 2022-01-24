@@ -1,0 +1,6 @@
+* [Dell](https://www.dell.com/en-us/work/shop)
+* [Newegg](https://www.newegg.com/)
+* [Razer](https://www.razer.com/)
+  * [Razer Blade 17](https://www.razer.com/gaming-laptops/razer-blade-17)
+  * [Razer Core X Chroma](https://www.razer.com/gaming-egpus/razer-core-x/RC21-01430100-R3U1)
+  * [Razer Raptor 27](https://www.razer.com/gaming/monitors/razer-raptor-27-165hz)
